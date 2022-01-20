@@ -2,9 +2,9 @@
 
 # Facultad de Ciencias
 
-# Redes de Computadoras
+## Redes de Computadoras
 
-# Miguel Torres Eric Giovanni
+## Miguel Torres Eric Giovanni
 ## Requisitos
   - Python 3.x
   - Privilegios de Administrador (SUDO)
