@@ -1,18 +1,25 @@
-## Requirement
+# Universidad Nacional Autónoma de México
+
+# Facultad de Ciencias
+
+# Redes de Computadoras
+
+# Miguel Torres Eric Giovanni
+## Requisitos
   - Python 3.x
-  - Privileged/Administrative Rights
-  - Linux Operating System
+  - Privilegios de Administrador (SUDO)
+  - Linux
   
-## Support
-	- Support IPv6 : ICMP ,UDP, TCP
+## Soporte
+	- Soporta IPv6 : ICMP, UDP, TCP
 	
-## Can filter
-	- That is possible filter the data from the follow packets:
-		- TCP ( V4 and V6)
-		- UDP ( V4 and V6)
-		- ICMP( V4 and V6)
+## Puede filtrar
+	- Es posible filtrar la información de los siguientes protocolos:
+		- TCP (V4 y V6)
+		- UDP (V4 y V6)
+		- ICMP(V4 y V6)
 	
-## Run
+## ¿Cómo ejecutar?
 	-sudo python3 Packet-Sniffer.py
 	-sudo python3 Packet-Sniffer.py UDP
 	-sudo python3 Packet-Sniffer.py ICMP
