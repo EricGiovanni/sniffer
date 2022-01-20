@@ -3,8 +3,8 @@
   - Privileged/Administrative Rights
   - Linux Operating System
   
-## Suport
-	- Suport IPv6 : ICMP ,UDP, TCP
+## Support
+	- Support IPv6 : ICMP ,UDP, TCP
 	
 ## Can filter
 	- That is possible filter the data from the follow packets:
